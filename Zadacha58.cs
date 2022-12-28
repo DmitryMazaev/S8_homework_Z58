@@ -74,7 +74,7 @@ void ResultMatrix(int[,] array1, int[,] array2)
 Console.WriteLine($"Матрица 1 размером {rows1}x{colums1}:");
 PrintMatrix(array1);
 Console.WriteLine();
-Console.WriteLine($"Матрица 1 размером {rows2}x{colums2}:");
+Console.WriteLine($"Матрица 2 размером {rows2}x{colums2}:");
 PrintMatrix(array2);
 Console.WriteLine();
 Console.WriteLine($"Результирующая матрица размером {rows1}x{colums2}:");
